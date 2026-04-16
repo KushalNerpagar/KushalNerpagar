@@ -9,6 +9,3 @@
 * **LeetCode/Codeforces**: Constantly optimizing logic.
 * **Focus**: Data Structures, Algorithms, and Automata Theory.
 
-###  Signal the Bat-Signal
-* **Location**: Mumbai/Vasai, IN
-* **Objective**: Building seamless experiences (and maybe a better anime streaming platform).
